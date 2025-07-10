@@ -6,7 +6,7 @@ This Power BI project provides a dynamic and insightful analysis of Blinkit groc
 
 🔗 **Live Dashboard**: [View on Power BI Service](https://app.powerbi.com/groups/me/reports/b6343d07-5363-426a-9673-9e5f40849aee?pbi_source=desktop)
 
-![Dashboard Screenshot](./your-dashboard-screenshot.png) <!-- Replace with actual screenshot filename -->
+![Dashboard Screenshot](Images/Sales%20Dashboard.png)
 
 ---
 
@@ -62,11 +62,10 @@ These enabled creation of measures such as total sales, average rating per item,
 
 ## 💡 How to Use
 
-1. Open the `.pbix` file in Power BI Desktop *(if available in repo)*.
+1. Open the `.pbix` file in Power BI Desktop.
 2. Explore prebuilt dashboards with slicers to filter by product types, outlet characteristics, and time.
 3. View KPIs and compare performance across different store categories and item segments.
 4. Use the **Power BI Service link** above for online interactivity.
 
 ---
-
 
